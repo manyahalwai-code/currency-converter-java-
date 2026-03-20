@@ -1,12 +1,12 @@
 Currency Converter (Java)
 
-A simple Java application that converts currencies.  
-Built to practice Java basics and problem-solving.
+A Java application that converts INR to multiple currencies using a menu system. 
+Built to practice Java fundamentals.
 
 # Features 
-- Convert between multiple currencies  
-- Simple and easy-to-use logic  
-- Fast calculations  
+- Convert INR → USD, EUR, CAD, JPY, QAR
+- Menu-driven interaction
+- Loops for multiple conversions 
 
 # Tech Used
 - Java  
