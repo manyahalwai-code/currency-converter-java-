@@ -18,3 +18,5 @@ Built to practice Java fundamentals.
 
 # Author 
 - Manya Halwai
+  
+- <img width="513" height="197" alt="Screenshot 2026-03-20 at 11 08 32 PM" src="https://github.com/user-attachments/assets/60df0bd0-3b81-492c-9b3f-9484234fbd64" />
